@@ -47,8 +47,8 @@ superuser: true
 title: Malek Ebadi
 ---
 
-Malek Ebadi is a Ph.D. candidate at Sabanci university, department of industrial engineering. His main research interests include decision making under uncertainty with applications in public health and medical decision making, maintenance and crowdsourcing planning.
+Malek Ebadi is a Ph.D. candidate at Sabanci university, department of industrial engineering. His main research interests include decision making under uncertainty with applications in public health and medical decision making, maintenance and crowd-sourcing planning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His Ph.D. dissertation considers optimal screening decision making for cervical cancer patients. The problem is modeled as a partially observable Markov decision process which is known to be doubly cursed: curse of dimensionality and curse of horizon. Following this thread, he is investigating algorithmic improvements in approximate solutions of the POMDP problems.   
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
