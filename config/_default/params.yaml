@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: malek@sabanciuniv.edu
+phone: 5397160726
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  city: Istanbul
+  region: Tuzla
   postcode: '94305'
-  country: United States
-  country_code: US
+  country: Turkey
+  country_code: TR
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
