@@ -19,11 +19,11 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: R, Matlab
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Statistics, Stochastic Processes
 - description: 70%
   icon: camera-retro
   icon_pack: fas
