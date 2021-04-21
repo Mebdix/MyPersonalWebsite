@@ -1,8 +1,8 @@
 ---
 date: "2021-04-20"
-linkTitle: Statistics
-summary: Along with the basic topics in descriptive statistics, we will be covering quite a few topics from inferential statistics as well. 
-title: "\U0001F4CA Descriptive And Inferential Statistics"
+linkTitle: R essentials
+summary: Basic usage of R programming.
+title: "\U0001F4CA Essentials of R"
 type: book
 ---
 
@@ -14,11 +14,11 @@ type: book
 
 - Fundamental topics in {{<hl>}}descriptive statistics{{</hl>}}
 - Gain experience with the {{<hl>}}R programming{{</hl>}}, including data visualization
-- {{<hl>}}Inferential statistics{{</hl>}} 
+- {{<hl>}}Visualization{{</hl>}} 
 
 ## Program overview
 
-We will start with descriptive statistics including sample statistics, sampling distributions, estimation and hypothesis testing. Later on, we will be covering some important aspects of the inferential statistics.
+We will start with basics of R. 
 
 ## Courses in this program
 
