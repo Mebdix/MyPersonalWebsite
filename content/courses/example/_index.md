@@ -12,13 +12,13 @@ type: book
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Fundamental topics in {{<hl>}}descriptive statistics{{</hl>}}
+- Gain experience with the {{<hl>}}R programming{{</hl>}}, including data visualization
+- {{<hl>}}Inferential statistics{{</hl>}} 
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+We will start with descriptive statistics including sample statistics, sampling distributions, estimation and hypothesis testing. Later on, we will be covering some important aspects of the inferential statistics.
 
 ## Courses in this program
 
