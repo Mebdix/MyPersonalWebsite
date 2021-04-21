@@ -1,8 +1,8 @@
 ---
 date: "2021-04-20"
-linkTitle: Statistics
+linkTitle: Stochastic Processes
 summary: Along with the basic topics in descriptive statistics, we will be covering quite a few topics from inferential statistics as well. 
-title: "\U0001F4CA Descriptive And Inferential Statistics Using R"
+title: "\U0001F4CA Stochastic Processes Using R"
 type: book
 ---
 
