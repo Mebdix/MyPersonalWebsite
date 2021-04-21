@@ -1,12 +1,12 @@
 ---
 date: "2021-01-01"
 math: true
-title: Statistics
+title: Inferential Statistics
 type: book
 weight: 40
 ---
 
-Introduction to statistics for data science.
+Introduction to inferential statistics.
 
 <!--more-->
 
