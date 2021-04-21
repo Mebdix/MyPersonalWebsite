@@ -1,6 +1,6 @@
 ---
 date: "2021-01-01"
-title: Basics statistics
+title: Descriptive statistics
 type: book
 weight: 20
 ---
