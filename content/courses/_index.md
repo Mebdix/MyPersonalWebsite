@@ -6,4 +6,4 @@ title: Courses
 type: page
 ---
 
-I teach the following courses:
+The followings are the list of the courses for which I have provided learning material:

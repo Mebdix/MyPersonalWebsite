@@ -1,8 +1,8 @@
 ---
-date: "2021-01-24"
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-title: "\U0001F4CA Learn Data Science"
+date: "2021-04-20"
+linkTitle: Statistics
+summary: Along with the basic topics in descriptive statistics, we will be covering quite a few topics from inferential statistics as well. 
+title: "\U0001F4CA Descriptive And Inferential Statistics"
 type: book
 ---
 
