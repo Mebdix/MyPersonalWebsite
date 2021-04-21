@@ -23,16 +23,16 @@ twitter: ''
 email: malek@sabanciuniv.edu
 phone: 5397160726
 address:
-  street: 450 Serra Mall
+  street: Universite Caddesi
   city: Istanbul
   region: Tuzla
-  postcode: '94305'
+  postcode: '34956'
   country: Turkey
   country_code: TR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '40.89263365165612'
+  longitude: '29.377603984329703'
+directions: Check-in at the entrance
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -44,7 +44,7 @@ contact_links:
     link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
-    name: Skype Me
+    name: ebadi.malek
     link: 'skype:echo123?call'
   - icon: keybase
     icon_pack: fab
