@@ -1,4 +1,8 @@
 ---
+authors:
+- Malek Ebadi
+categories:
+- course details
 date: "2021-03-12"
 diagram: true
 highlight: true
@@ -9,7 +13,8 @@ image:
 math: true
 subtitle: In this post, I will explain which topics are covered in the course.
 summary: Undergraduate level statistics course
-tags: []
+tags:
+- R
 title: My course notes on descriptive and inferential statistics using R 
 ---
 

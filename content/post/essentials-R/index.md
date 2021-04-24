@@ -16,7 +16,7 @@ projects: []
 subtitle: "In this post, I explain the details of the course, and the topics covered."
 summary: "A very quick introduction to the basics of R programming."
 tags:
-- Academic
+- R
 title: My course notes on basics of R is available under course page.
 ---
 

@@ -1,18 +1,20 @@
 ---
 authors:
 - Malek Ebadi
-categories: []
+categories: 
+- course details
 date: "2019-02-05T00:00:00Z"
 image:
   caption: 'Image credit: [**wikiwand**](https://www.wikiwand.com/en/Stochastic_matrix/)'
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 lastMod: "2019-09-05T00:00:00Z"
 projects: []
 subtitle: In this post, I will explain which topics are covered in the course.
 summary: Undergraduate level stochastic processes course
-tags: []
+tags: 
+- R
 title: My notes on stochastic processes using R is available under course menue.
 ---
 
