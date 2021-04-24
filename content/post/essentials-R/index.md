@@ -10,7 +10,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 lastmod: "2020-12-13T00:00:00Z"
 projects: []
 subtitle: "In this post, I explain the details of the course, and the topics covered."
