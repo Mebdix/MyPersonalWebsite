@@ -9,7 +9,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastMod: "2019-09-05T00:00:00Z"
+lastmod: "2020-12-13T00:00:00Z"
 projects: []
 subtitle: In this post, I will explain which topics are covered in the course.
 summary: Undergraduate level stochastic processes course
