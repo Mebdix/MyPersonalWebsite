@@ -1,6 +1,6 @@
 ---
 authors:
-- admin
+- Malek Ebadi
 categories: []
 date: "2019-02-05T00:00:00Z"
 image:
@@ -9,9 +9,9 @@ image:
 lastMod: "2019-09-05T00:00:00Z"
 projects: []
 subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+summary: Undergraduate level stochastic processes course
 tags: []
-title: Display Jupyter Notebooks with Academic
+title: My notes on stochastic processes using R is available under course menue.
 ---
 
 ```python
