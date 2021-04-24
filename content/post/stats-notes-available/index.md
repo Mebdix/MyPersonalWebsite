@@ -5,6 +5,7 @@ highlight: true
 image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
   placement: 3
+  preview_only: true
 math: true
 subtitle: In this post, I will explain which topics are covered in the course.
 summary: Undergraduate level statistics course
