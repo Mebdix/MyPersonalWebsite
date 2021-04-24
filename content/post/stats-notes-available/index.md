@@ -6,12 +6,12 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
   placement: 3
 math: true
-title: Writing technical content in Academic
+title: My course notes on descriptive and inferential statistics using R 
 ---
 
-Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
+
+**Malek Ebadi highlighted here**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Academic.
 
