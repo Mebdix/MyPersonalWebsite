@@ -32,9 +32,6 @@ address:
 coordinates:
   latitude: '40.89263365165612'
   longitude: '29.377603984329703'
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendar.google.com/'
 contact_links:
   - icon: twitter
@@ -44,7 +41,7 @@ contact_links:
   - icon: skype
     icon_pack: fab
     name: ebadi.malek
-
+    link: 'https://skype.com/'
 # Site header
 
 main_menu:
