@@ -1,22 +1,22 @@
 ---
 title: How I created my website?
-author: ''
-date: '2021-04-24'
+author: 'Malek Ebadi'
+date: '2021-04-24T00:00:00Z'
 slug: how-i-created-my-website
 categories:
   - R blogdown
 tags:
   - R
   - R blogdown
-subtitle: ''
+subtitle: 'A step by step guide'
 summary: 'Follow the instructions to create your own website!'
 authors: []
 lastmod: '2021-04-24T23:51:00+03:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
-  preview_only: no
+  preview_only: yes
 projects: []
 ---
 
