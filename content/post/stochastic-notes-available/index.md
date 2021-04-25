@@ -1,9 +1,9 @@
 ---
 authors:
-- Malek Ebadi
+- admin
 categories: 
 - course details
-date: "2021-03-03T00:00:00Z"
+date: "2020-03-03T00:00:00Z"
 image:
   caption: 'Image credit: [**wikiwand**](https://www.wikiwand.com/en/Stochastic_matrix/)'
   focal_point: ""
