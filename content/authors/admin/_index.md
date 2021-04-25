@@ -1,6 +1,5 @@
 ---
-bio: My research interests include operations research, decision making under uncertainty with special focus on public health and medical decision making, decision making in crowdsourcing platforms, and maintenance. 
-  matter.
+bio: I am a Ph.D. candidate at Sabanci university, Turkey. My research interests include operations research, decision making under uncertainty with special focus on public health and medical decision making, decision making in crowdsourcing platforms, and maintenance. 
 education:
   courses:
   - course: Ph.D. in Industrial Engineering
