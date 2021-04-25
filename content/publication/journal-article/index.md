@@ -5,7 +5,6 @@ author_notes:
 - Equal contribution
 authors:
 - admin
-- Robert Ford
 date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
@@ -20,8 +19,7 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this study, we use a POMDP model to develop personalized screening policies for cervical cancer.
 tags:
 - Source Themes
 title: An example journal article
