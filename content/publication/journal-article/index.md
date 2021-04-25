@@ -5,15 +5,16 @@ author_notes:
 - Equal contribution
 authors:
 - admin
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Raha Akhavan Tabatabaei
+date: "2021-09-01T00:00:00Z"
+doi: "https://doi.org/10.3390/math9060679"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Mathematics**](https://www.mdpi.com/2227-7390/9/6/679)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Mathematics, 1*(1)'
+publication: '*Journal of Mathematics, 9(6), 679*'
 publication_short: ""
 publication_types:
 - "2"
@@ -21,11 +22,16 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: In this study, we use a POMDP model to develop personalized screening policies for cervical cancer.
 tags:
-- Source Themes
-title: An example journal article
+- POMDP
+- Cervical cancer screening
+- Cytology
+- HPV DNA
+- Cotesting
+- Personalized screening decision making
+title: Personalized cotesting policies for cervical cancer, a POMDP approach
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.mdpi.com/2227-7390/9/6/679/htm
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -34,11 +40,11 @@ url_video: ""
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to import publication metadata into your reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Click the *Slides* button to check out the slides.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+I will upload the slides very soon.
