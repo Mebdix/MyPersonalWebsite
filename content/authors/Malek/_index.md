@@ -33,7 +33,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/mebdix
+  link: https://twitter.com/EbadiMalek
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=7X6CzPgAAAAJ
@@ -51,4 +51,4 @@ Malek Ebadi is a Ph.D. candidate at Sabanci university, department of industrial
 
 His Ph.D. dissertation considers optimal screening decision making for cervical cancer patients. The problem is modeled as a partially observable Markov decision process which is known to be doubly cursed: curse of dimensionality and curse of horizon. Following this thread, he is investigating algorithmic improvements in approximate solutions of the POMDP problems.   
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/MalekEbadiResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
