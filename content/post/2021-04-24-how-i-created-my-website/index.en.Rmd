@@ -12,7 +12,7 @@ subtitle: 'A step by step guide'
 summary: 'Follow the instructions to create your own website!'
 authors: []
 lastmod: '2021-04-24T23:51:00+03:00'
-featured: yes
+featured: no
 image:
   caption: ''
   focal_point: ''
