@@ -19,8 +19,8 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: "Malek Ebadi"
-    category: "course details"
+    author: ""
+    category: ""
     tag: "R"
     exclude_featured: false
     exclude_future: false
