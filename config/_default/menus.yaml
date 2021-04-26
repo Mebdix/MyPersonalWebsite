@@ -19,8 +19,8 @@ main:
   - name: Courses
     url: courses/
     weight: 50
-  - name: Projects
-    url: '#projects'
+  - name: shiny
+    url: '#shiny'
     weight: 60    
   - name: Contact
     url: '#contact'
