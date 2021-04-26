@@ -11,7 +11,7 @@ education:
   - course: B.Sc. in Civil Engineering
     institution: Tabriz University
     year: 2011
-email: ""
+email: "malek@sabanciuniv.edu"
 highlight_name: false
 interests:
 - Operations Research
