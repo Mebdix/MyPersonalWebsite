@@ -1,10 +1,10 @@
 ---
-abstract: Modeling cervical cancer screening as a POMDP model.
+abstract: I will add it later.
 address:
-  city: Valencia
-  country: Spain
+  city: Kunshan
+  country: China
   postcode: "94305"
-  region: Valencia
+  region: Kunshan
   street: Anaheim Convention Center, Anaheim Marriott
 all_day: false
 authors: 
@@ -15,7 +15,7 @@ event: EURO 2018
 event_url: http://euro2018valencia.com/
 featured: false
 image:
-  caption: 'Image credit: [**EURO**](http://euro2018valencia.com/)'
+  caption: ''
   focal_point: Right
 links:
 - icon: twitter
@@ -25,10 +25,10 @@ links:
 location: USA
 projects: []
 publishDate: "2017-01-01T00:00:00Z"
-slides: eurovalencia2018
+slides: dukekunshan2020
 summary: Modeling cervical cancer screening as a POMDP model.
 tags: []
-title: EURO 2018, Cervical cancer screening as a POMDP model
+title: Duke Kunshan 2020, A novel grid based approximate solution method for POMDP models
 url_code: ""
 url_pdf: ""
 url_slides: ""
