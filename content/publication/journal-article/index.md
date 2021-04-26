@@ -19,7 +19,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides: cotesting
 summary: In this study, we use a POMDP model to develop personalized screening policies for cervical cancer.
 tags:
 - POMDP
