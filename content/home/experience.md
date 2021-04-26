@@ -32,18 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Doing TAship for many courses including statistics, probability, stochastic processes, simulation, production planning
+        * Research
+
 
 design:
   columns: '2'
