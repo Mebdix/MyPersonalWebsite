@@ -1,18 +1,18 @@
 ---
 abstract: We will discuss overdiagnosis in cervical cancer screening.
 address:
-  city: Stanford
+  city: California
   country: United States
   postcode: "94305"
   region: CA
-  street: 450 Serra Mall
+  street: Anaheim Convention Center, Anaheim Marriott
 all_day: false
 authors: 
 - admin
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-10-24T13:00:00Z"
+date_end: "2021-10-27T15:00:00Z"
 event: INFORMS 2021
-event_url: https://example.org
+event_url: https://informs.org
 featured: false
 image:
   caption: 'Image credit: [**informs**](https://connect.informs.org)'
@@ -28,7 +28,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: informs2021
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
-title: Overdiagnosis in cervical cancer screening
+title: INFORMS, Overdiagnosis in cervical cancer screening
 url_code: ""
 url_pdf: ""
 url_slides: ""
