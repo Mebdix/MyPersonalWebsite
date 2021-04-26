@@ -20,10 +20,18 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R, Matlab
+- description: 90%
+  icon: r-project
+  icon_pack: fab
+  name: R blogdown, R bookdown  
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics, Stochastic Processes
+- description: 90%
+  icon: r-project
+  icon_pack: fab
+  name: German, Turkish  
 - description: 70%
   icon: camera-retro
   icon_pack: fas
