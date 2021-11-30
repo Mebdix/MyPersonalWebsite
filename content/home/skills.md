@@ -16,20 +16,20 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Public health, Maintenance, etc 
-  icon: hospital-user
-  icon_pack: fas
-  name: Decision making under uncertainty
 - description: 
   icon: laptop-code
   icon_pack: fa
-  name: Optimization, Mathematical programming
+  name: Operations research, Optimization, Mathematical programming
 - description: 
-  icon: wrench
+  icon: hospital-user
+  icon_pack: fas
+  name: Production planning   
+- description: 
+  icon: cogs
   icon_pack: fa
   name: Supply chain management, Logistics
 - description: Buyback, Target rebate, etc
-  icon: wrench
+  icon: bezier-curve
   icon_pack: fa
   name: Multiplayer contracting  
 - description: 
@@ -45,9 +45,9 @@ feature:
   icon_pack: fa
   name: Cost-effectiveness analysis 
 - description: 
-  icon: cogs
+  icon: wrench
   icon_pack: fa
-  name: Operations research   
+  name: Maintenance decisions  
 - description: experienced
   icon: github
   icon_pack: fab
@@ -59,7 +59,7 @@ feature:
 - description: C1 certificates
   icon: language
   icon_pack: fa
-  name: German, Turkish 
+  name: English, German, Turkish 
 - description: hobby
   icon: camera-retro
   icon_pack: fa

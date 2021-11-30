@@ -15,9 +15,12 @@ email: "ebadimalek[at]yahoo.com"
 highlight_name: false
 interests:
 - Operations Research
-- Decision Making Under Uncertainty (Public Health Decision Making, Production, Maintenance decisions, etc)
-- Supply chain coordination and management, contracting (buyback, target rebate, etc) 
+- Decision Making Under Uncertainty 
+- Production and maintenance decisions
+- Supply chain coordination and management 
+- Contracting (buyback, target rebate, etc) 
 - Quality control and statistical analysis
+- Simulation
 organizations:
 - name: Sabanci University
   url: https://www.sabanciuniv.edu/
