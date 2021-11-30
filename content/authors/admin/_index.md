@@ -7,11 +7,11 @@ education:
     year: 2021
   - course: M.Sc. in Industrial Engineering
     institution: Bilkent University
-    year: 2015
+    year: 2014
   - course: B.Sc. in Civil Engineering
     institution: Tabriz University
-    year: 2011
-email: "malek@sabanciuniv.edu"
+    year: 2010
+email: "ebadimalek[at]yahoo.com"
 highlight_name: false
 interests:
 - Operations Research
@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: Sabanci University
   url: https://www.sabanciuniv.edu/
-role: Ph.D. Candidate
+role: Ph.D. Industrial Engineer
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,13 +41,13 @@ social:
   link: https://github.com/mebdix
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/malekebadi/
 superuser: true
 title: Malek Ebadi
 ---
 
-Malek Ebadi is a Ph.D. candidate at Sabanci university, department of industrial engineering. His main research interests include decision making under uncertainty with applications in public health and medical decision making, maintenance and crowd-sourcing planning.
+Malek Ebadi is an industrial engineer experienced in decision making under uncertainty with applications in public health and medical decision making, maintenance and crowd-sourcing.
 
-His Ph.D. dissertation considers optimal screening decision making for cervical cancer patients. The problem is modeled as a partially observable Markov decision process which is known to be doubly cursed: curse of dimensionality and curse of horizon. Following this thread, he is investigating algorithmic improvements in approximate solutions of the POMDP problems.   
+His Ph.D. dissertation considers optimal screening decision making for cervical cancer patients. The problem is modeled as a partially observable Markov decision process (POMDP) which is known to be doubly cursed: curse of dimensionality and curse of horizon. Following this thread, he is investigating algorithmic improvements in approximate solutions of the POMDP problems.   
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/MalekEbadiResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Malek's {{< staticref "media/MalekEbadiResume.pdf" "newtab" >}}resumé{{< /staticref >}}.

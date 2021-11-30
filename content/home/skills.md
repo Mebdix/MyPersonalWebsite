@@ -16,27 +16,50 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 
+  icon: hospital-user
+  icon_pack: fas
+  name: Public health decision making
+- description: 
+  icon: laptop-code
+  icon_pack: fa
+  name: Optimization, Mathematical Programming
+- description: 
+  icon: wrench
+  icon_pack: fa
+  name: Maintenance decision making
+- description: experienced
+  icon: github
   icon_pack: fab
-  name: R, Matlab
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R blogdown, R bookdown  
-- description: 100%
-  icon: chart-line
+  name: Matlab, R, Latex, Github  
+- description: 
+  icon: dice
   icon_pack: fas
   name: Statistics, Stochastic Processes
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: German, Turkish  
-- description: 70%
+- description: 
+  icon: images
+  icon_pack: fa
+  name: Discrete event simulation  
+- description: 
+  icon: check-double
+  icon_pack: fa
+  name: Quality control 
+- description: 
+  icon: hand-holding-usd
+  icon_pack: fa
+  name: Cost-effectiveness analysis 
+- description: 
+  icon: cogs
+  icon_pack: fa
+  name: Operations research   
+- description: C1 certificates
+  icon: language
+  icon_pack: fa
+  name: German, Turkish 
+- description: hobby
   icon: camera-retro
-  icon_pack: fas
-  name: Photography
-
+  icon_pack: fa
+  name: Photography  
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"

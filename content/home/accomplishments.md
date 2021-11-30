@@ -45,7 +45,7 @@ item:
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Programming in R'
+  title: 'Data Scientist Professional Certificate'
   url: ""
 
 design:
