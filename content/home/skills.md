@@ -16,26 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
+- description: Public health, Maintenance, etc 
   icon: hospital-user
   icon_pack: fas
-  name: Public health decision making
+  name: Decision making under uncertainty
 - description: 
   icon: laptop-code
   icon_pack: fa
-  name: Optimization, Mathematical Programming
+  name: Optimization, Mathematical programming
 - description: 
   icon: wrench
   icon_pack: fa
-  name: Maintenance decision making
-- description: experienced
-  icon: github
-  icon_pack: fab
-  name: Matlab, R, Latex, Github  
-- description: 
-  icon: dice
-  icon_pack: fas
-  name: Statistics, Stochastic Processes
+  name: Supply chain management, Logistics
+- description: Buyback, Target rebate, etc
+  icon: wrench
+  icon_pack: fa
+  name: Multiplayer contracting  
 - description: 
   icon: images
   icon_pack: fa
@@ -52,6 +48,14 @@ feature:
   icon: cogs
   icon_pack: fa
   name: Operations research   
+- description: experienced
+  icon: github
+  icon_pack: fab
+  name: Matlab, R, Latex, Github  
+- description: 
+  icon: dice
+  icon_pack: fas
+  name: Statistics, Stochastic Processes  
 - description: C1 certificates
   icon: language
   icon_pack: fa

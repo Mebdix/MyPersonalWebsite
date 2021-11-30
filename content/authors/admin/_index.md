@@ -1,5 +1,5 @@
 ---
-bio: I am a Ph.D. candidate at Sabanci university, Turkey. My research interests include operations research, decision making under uncertainty with special focus on public health and medical decision making, decision making in crowdsourcing platforms, and maintenance. 
+bio: I am an industrial engineer (Ph.D.) with experience and interest in operations research, decision making under uncertainty, supply chain management, quality control, simulation, and maintenance decision making. 
 education:
   courses:
   - course: Ph.D. in Industrial Engineering
@@ -15,10 +15,9 @@ email: "ebadimalek[at]yahoo.com"
 highlight_name: false
 interests:
 - Operations Research
-- Decision Making Under Uncertainty
-- Medical, Public Health Decision Making
-- Crowdsourcing Planning
-- Maintenance Decisions
+- Decision Making Under Uncertainty (Public Health Decision Making, Production, Maintenance decisions, etc)
+- Supply chain coordination and management, contracting (buyback, target rebate, etc) 
+- Quality control and statistical analysis
 organizations:
 - name: Sabanci University
   url: https://www.sabanciuniv.edu/
@@ -46,8 +45,8 @@ superuser: true
 title: Malek Ebadi
 ---
 
-Malek Ebadi is an industrial engineer experienced in decision making under uncertainty with applications in public health and medical decision making, maintenance and crowd-sourcing.
+Malek Ebadi is an industrial engineer experienced in decision making under uncertainty with applications in different industries including production, maintenance, supply chain, and public health decision making.
 
-His Ph.D. dissertation considers optimal screening decision making for cervical cancer patients. The problem is modeled as a partially observable Markov decision process (POMDP) which is known to be doubly cursed: curse of dimensionality and curse of horizon. Following this thread, he is investigating algorithmic improvements in approximate solutions of the POMDP problems.   
+His Ph.D. dissertation considers optimal screening decision making for cervical cancer patients. This problem is an instance of decisions with uncertain outcomes where the objective of the decision maker is to optimize a certain performance metric (e.g. health expenditures, life expectancy of the patients or a combination of both). Being so, the problem is an optimization problem which can be modeled as a partially observable Markov decision process (POMDP). Read more about POMDPs.
 
 {{< icon name="download" pack="fas" >}} Download Malek's {{< staticref "media/MalekEbadiResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
