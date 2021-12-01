@@ -16,10 +16,10 @@ main:
   - name: Posts
     url: '#posts'
     weight: 40
-  - name: Courses
+  - name: R Courses
     url: courses/
     weight: 50
-  - name: shiny
+  - name: Extracurricular
     url: '#shiny'
     weight: 60    
   - name: Contact

@@ -2,17 +2,18 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Malek 
   focal_point: Smart
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/EbadiMalek
-summary: An example of using the in-built project page.
+  url: https://twitter.com/georgecushen
+slides: example
+summary: Discove more about Istanbul.
 tags:
-- Deep Learning
-title: Internal Project
+- Istanbul
+title: Istanbul, the melting pot of all the generations of different cultures
 url_code: ""
 url_pdf: ""
 url_slides: ""

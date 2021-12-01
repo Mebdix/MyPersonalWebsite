@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 116
 
-title: Shiny
-subtitle: ''
+title: Extracurricular & Pretentious Stuff
+subtitle: 'You have better things to do than read this.'
 
 content:
   # Page type to display. E.g. project.

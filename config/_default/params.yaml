@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: malek@sabanciuniv.edu
+email: ebadimalek[at]yahoo.com
 phone: 5397160726
 address:
   street: Universite Caddesi

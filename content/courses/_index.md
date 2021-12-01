@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Courses
+title: R Courses
 type: page
 ---
 
