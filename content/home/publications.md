@@ -10,7 +10,7 @@ headless: false
 weight: 80
 
 title: Publications
-subtitle: ''
+subtitle: 'List of the most recent publications'
 
 content:
   # Page type to display. E.g. post, talk, publication...

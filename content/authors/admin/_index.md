@@ -14,9 +14,10 @@ education:
 email: "ebadimalek[at]yahoo.com"
 highlight_name: false
 interests:
-- Operations Research
-- Decision Making Under Uncertainty 
-
+- Operations research
+- Decision making under uncertainty 
+- Optimization
+- Data science
 organizations:
 - name: Sabanci University
   url: https://www.sabanciuniv.edu/
@@ -46,6 +47,6 @@ title: Malek Ebadi
 
 Malek Ebadi is an industrial engineer experienced in decision making under uncertainty with applications in different industries including production, maintenance, supply chain, and public health decision making.
 
-His Ph.D. dissertation considers optimal screening decision making for cervical cancer patients. This problem is an instance of decisions with uncertain outcomes where the objective of the decision maker is to optimize a certain performance metric (e.g. health expenditures, life expectancy of the patients or a combination of both). Being so, the problem is an optimization problem which can be modeled as a partially observable Markov decision process (POMDP). Read more about POMDPs.
+His Ph.D. dissertation considers optimal screening decision making for cervical cancer patients. This problem is an instance of decisions with uncertain outcomes where the objective of the decision maker is to optimize a certain performance metric (e.g. health expenditures, life expectancy of the patients or a combination of both). Being so, the problem is an optimization problem which can be modeled as a partially observable Markov decision process (POMDP). [Read more](https://www.ebadi-malek.me/post/pomdp-problems/) about POMDPs.
 
 {{< icon name="download" pack="fas" >}} Download Malek's {{< staticref "media/MalekEbadiResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
