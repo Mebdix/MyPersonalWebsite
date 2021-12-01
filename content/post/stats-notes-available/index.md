@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- course details
+- Statistics
 date: "2020-03-04T00:00:00Z"
 diagram: true
 highlight: true

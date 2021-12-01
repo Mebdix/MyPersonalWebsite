@@ -2,7 +2,7 @@
 authors:
 - admin
 categories: 
-- course details
+- Stochastics
 date: "2020-03-03T00:00:00Z"
 image:
   caption: 'Image credit: [**wikiwand**](https://www.wikiwand.com/en/Stochastic_matrix/)'
@@ -15,7 +15,12 @@ subtitle: In this post, I will explain which topics are covered in the course.
 summary: Undergraduate level stochastic processes course
 tags: 
 - R
-title: My notes on stochastic processes using R is available under course menue.
+- Stochastic processes
+- Stochastic processes in R
+- Markov chain
+- Markov process
+- Queue theory
+title: My notes on stochastic processes using R is available under course menu.
 ---
 
 Here we go. 

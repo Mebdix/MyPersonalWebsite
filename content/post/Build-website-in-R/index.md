@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- POMDP
+- Blogdown
 date: "2021-12-01T00:00:00Z"
 draft: false
 featured: false
@@ -14,7 +14,7 @@ image:
 lastmod: "2021-12-03T00:00:00Z"
 projects: []
 subtitle: "In this post, I explain the steps required to make a website using R Blogdown."
-summary: "Hugo academic themse."
+summary: "Using Hugo academic themse."
 tags:
 - R
 title: Building a website with R Blogdown.

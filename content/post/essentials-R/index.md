@@ -2,7 +2,7 @@
 authors:
 - admin
 categories:
-- course details
+- R basics
 date: "2020-03-05T00:00:00Z"
 draft: false
 featured: false
