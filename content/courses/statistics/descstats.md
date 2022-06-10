@@ -5,15 +5,98 @@ type: book
 weight: 20
 ---
 
-Build a foundation in Python.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+<!--{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks-->
 
-## Learn
+## Summary Measures
 
-{{< youtube rfscVS0vtbw >}}
+<!--If you want to insert a youtube video, do it like this-->
+
+<!--{{< youtube rfscVS0vtbw >}}-->
+
+
+Abc will be updated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Quiz
 
