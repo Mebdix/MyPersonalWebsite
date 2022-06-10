@@ -10,12 +10,11 @@ weight: 20
 
 <!--{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks-->
 
-## Summary Measures
-
 <!--If you want to insert a youtube video, do it like this-->
 
 <!--{{< youtube rfscVS0vtbw >}}-->
 
+## Summary Measures
 
 
 ### Measure of Central Tendency

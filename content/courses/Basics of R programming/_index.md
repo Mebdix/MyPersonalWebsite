@@ -24,9 +24,7 @@ We will start with basics of R.
 
 {{< list_children >}}
 
-## Meet your instructor
 
-{{< mention "admin" >}}
 
 
 {{< cta cta_text="Begin the course" cta_link="Visualization" >}}
