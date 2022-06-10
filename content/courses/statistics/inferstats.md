@@ -6,13 +6,12 @@ type: book
 weight: 40
 ---
 
-Introduction to inferential statistics.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
 
-## Learn
+
+## Basian Statistics
 
 The general form of the **normal** probability density function is:
 
@@ -26,8 +25,4 @@ $\sigma$ is its standard deviation.
 The variance of the distribution is $\sigma^{2}$.
 {{< /callout >}}
 
-## Quiz
 
-{{< spoiler text="What is the parameter $\mu$?" >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-{{< /spoiler >}}
