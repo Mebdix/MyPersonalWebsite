@@ -6,6 +6,7 @@ type: book
 weight: 30
 ---
 
+Check this before you start learning R. 
 
 ## Notes about asking help
 

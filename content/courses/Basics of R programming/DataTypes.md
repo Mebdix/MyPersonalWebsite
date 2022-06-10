@@ -6,7 +6,7 @@ type: book
 weight: 30
 ---
 
-
+Learn more about types of data in R.
 
 # Data Types In R
 
