@@ -17,9 +17,17 @@ weight: 20
 <!--{{< youtube rfscVS0vtbw >}}-->
 
 
-Abc will be updated.
+## Summary Measures
 
-cdf will be used.
+### Measure of Central Tendency
+
+### Measure of Dispersion
+
+### Measure of Position
+
+### Measure of Shape
+
+### Measure of Association
 
 
 
