@@ -1,0 +1,114 @@
+---
+title: "Control Flow"
+author: "Malek Ebadi"
+date: "6/10/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+# Control Flow
+
+## If
+```{r}
+x <- 5
+if(x > 0){
+print("Positive number")
+}
+```
+```{r}
+x <- -5
+if(x > 0){
+print("Non-negative number")
+} else {
+print("Negative number")
+}
+```
+```{r}
+x <- 0
+if (x < 0) {
+print("Negative number")
+} else if (x > 0) {
+print("Positive number")
+} else
+print("Zero")
+```
+```{r}
+# Create vector quantiy
+x <-  10
+# Create multiple condition statement
+if (x <20) {
+      print('Good')
+} else if (x > 20  &x <= 30) {
+     print('Average')
+} else {
+      print('Bad!')
+}
+```
+```{r, echo=FALSE}
+d <- cbind(Product = c("A","B","C"), Discount = c(3, 15, 30))
+# at most 4 decimal places
+knitr::kable(d)
+```
+```{r}
+Product <- 'A'
+price <- 100
+if (Product =='A'){
+  cat('3% discount is applied.','The discounted price is',price-price *0.03)  
+} else if (Product =='B'){
+    cat('15% discount is applied.','The discounted price is',price-price *0.15)  
+} else {
+    cat('30% discount is applied.','The discounted price is',price-price *0.3)  
+}
+```
+
+## For
+```{r}
+for(i in 1:5)
+  print(i^2)
+```
+
+
+```{r}
+for(i in 1:5) 
+  print(1:i)
+```
+
+
+```{r}
+n <- 6 # sample size
+n_iter <- 10^5 # number of iterations of loop (equivalent to p)
+means <- numeric(n_iter)
+sds <- numeric(n_iter)
+sems <- numeric(n_iter)
+for(i in 1:n_iter){
+  y <- rnorm(n) # mean=0 and sd=1 are default so not necessary to specify
+  means[i] <- mean(y)
+  sds[i] <- sd(y)
+  sems[i] <- sd(y)/sqrt(n)
+}
+sd(means)
+mean(sems)
+```
+
+
+
+## While
+
+```{r}
+i <- 1
+N <- c(1:20)
+numsum = 0
+while (numsum<100) {
+  numsum = numsum + N[i]
+  i = i + 1
+  print(numsum)
+}
+```
+
+

@@ -1,0 +1,136 @@
+---
+title: "Control Flow"
+author: "Malek Ebadi"
+date: "6/10/2022"
+output: html_document
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<div id="control-flow" class="section level1">
+<h1>Control Flow</h1>
+<div id="if" class="section level2">
+<h2>If</h2>
+<pre class="r"><code>x &lt;- 5
+if(x &gt; 0){
+print(&quot;Positive number&quot;)
+}</code></pre>
+<pre><code>## [1] &quot;Positive number&quot;</code></pre>
+<pre class="r"><code>x &lt;- -5
+if(x &gt; 0){
+print(&quot;Non-negative number&quot;)
+} else {
+print(&quot;Negative number&quot;)
+}</code></pre>
+<pre><code>## [1] &quot;Negative number&quot;</code></pre>
+<pre class="r"><code>x &lt;- 0
+if (x &lt; 0) {
+print(&quot;Negative number&quot;)
+} else if (x &gt; 0) {
+print(&quot;Positive number&quot;)
+} else
+print(&quot;Zero&quot;)</code></pre>
+<pre><code>## [1] &quot;Zero&quot;</code></pre>
+<pre class="r"><code># Create vector quantiy
+x &lt;-  10
+# Create multiple condition statement
+if (x &lt;20) {
+      print(&#39;Good&#39;)
+} else if (x &gt; 20  &amp;x &lt;= 30) {
+     print(&#39;Average&#39;)
+} else {
+      print(&#39;Bad!&#39;)
+}</code></pre>
+<pre><code>## [1] &quot;Good&quot;</code></pre>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Product</th>
+<th align="left">Discount</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">A</td>
+<td align="left">3</td>
+</tr>
+<tr class="even">
+<td align="left">B</td>
+<td align="left">15</td>
+</tr>
+<tr class="odd">
+<td align="left">C</td>
+<td align="left">30</td>
+</tr>
+</tbody>
+</table>
+<pre class="r"><code>Product &lt;- &#39;A&#39;
+price &lt;- 100
+if (Product ==&#39;A&#39;){
+  cat(&#39;3% discount is applied.&#39;,&#39;The discounted price is&#39;,price-price *0.03)  
+} else if (Product ==&#39;B&#39;){
+    cat(&#39;15% discount is applied.&#39;,&#39;The discounted price is&#39;,price-price *0.15)  
+} else {
+    cat(&#39;30% discount is applied.&#39;,&#39;The discounted price is&#39;,price-price *0.3)  
+}</code></pre>
+<pre><code>## 3% discount is applied. The discounted price is 97</code></pre>
+</div>
+<div id="for" class="section level2">
+<h2>For</h2>
+<pre class="r"><code>for(i in 1:5)
+  print(i^2)</code></pre>
+<pre><code>## [1] 1
+## [1] 4
+## [1] 9
+## [1] 16
+## [1] 25</code></pre>
+<pre class="r"><code>for(i in 1:5) 
+  print(1:i)</code></pre>
+<pre><code>## [1] 1
+## [1] 1 2
+## [1] 1 2 3
+## [1] 1 2 3 4
+## [1] 1 2 3 4 5</code></pre>
+<pre class="r"><code>n &lt;- 6 # sample size
+n_iter &lt;- 10^5 # number of iterations of loop (equivalent to p)
+means &lt;- numeric(n_iter)
+sds &lt;- numeric(n_iter)
+sems &lt;- numeric(n_iter)
+for(i in 1:n_iter){
+  y &lt;- rnorm(n) # mean=0 and sd=1 are default so not necessary to specify
+  means[i] &lt;- mean(y)
+  sds[i] &lt;- sd(y)
+  sems[i] &lt;- sd(y)/sqrt(n)
+}
+sd(means)</code></pre>
+<pre><code>## [1] 0.4069374</code></pre>
+<pre class="r"><code>mean(sems)</code></pre>
+<pre><code>## [1] 0.3885883</code></pre>
+</div>
+<div id="while" class="section level2">
+<h2>While</h2>
+<pre class="r"><code>i &lt;- 1
+N &lt;- c(1:20)
+numsum = 0
+while (numsum&lt;100) {
+  numsum = numsum + N[i]
+  i = i + 1
+  print(numsum)
+}</code></pre>
+<pre><code>## [1] 1
+## [1] 3
+## [1] 6
+## [1] 10
+## [1] 15
+## [1] 21
+## [1] 28
+## [1] 36
+## [1] 45
+## [1] 55
+## [1] 66
+## [1] 78
+## [1] 91
+## [1] 105</code></pre>
+</div>
+</div>

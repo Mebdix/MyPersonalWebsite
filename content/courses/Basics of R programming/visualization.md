@@ -8,4 +8,5 @@ weight: 30
 
 Learn how to visualize data with R.
 
+## plot
 
