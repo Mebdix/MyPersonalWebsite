@@ -7,4 +7,5 @@ weight: 20
 
 ## Download Link
 
-Please use this [link]() to download the pdf file.  
+
+Please use this {{< icon name="download" pack="fas" >}} {{< staticref "media/Chapters 1-3.pdf" "newtab" >}}link{{< /staticref >}} to download the pdf file.
