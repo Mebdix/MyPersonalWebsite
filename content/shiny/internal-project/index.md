@@ -22,7 +22,7 @@ url_video: ""
 
 >  "If one had but a single glance to give the world, one should gaze on Istanbul."
 >
-> `r tufte::quote_footer('--- Alphonse de Lamartine')`
+> Alphonse de Lamartine
 
   
 
