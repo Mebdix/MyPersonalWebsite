@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: Discove more about Istanbul.
+summary: Discover more about Istanbul.
 tags:
 - Istanbul
 title: Istanbul, the melting pot of all the generations of different cultures
@@ -24,8 +24,16 @@ url_video: ""
 >
 > <center> Alphonse de Lamartine </center>
 
-  
-> "Life can’t be all that bad, I’d think from time to time. Whatever happens, I can always take a long walk along the Bosphorus."
+**Walk Alongside Bosphorus**  
+
+> <center> "Life can’t be all that bad, I’d think from time to time. Whatever happens, I can always take a long walk along the Bosphorus." </center>
+>
+> <center> Orhan Pamuk </center>
 
 
+
+**Love Affair With Food**
+
+
+**Literature**
 And speaking of Istanbul, it would be unfair not to mention **The Bastard Of Istanbul** from _Elif Şafak_.
