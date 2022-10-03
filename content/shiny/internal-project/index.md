@@ -8,7 +8,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/ebadimalek
 slides: example
 summary: Discover more about Istanbul.
 tags:
@@ -35,5 +35,10 @@ url_video: ""
 **Love Affair With Food**
 
 
+**It's Raining Cats**
+
+
+
 **Literature**
+
 And speaking of Istanbul, it would be unfair not to mention **The Bastard Of Istanbul** from _Elif Şafak_.
